@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://michaelpeatross.github.io/tesla-owner-kit/sitemap.xml

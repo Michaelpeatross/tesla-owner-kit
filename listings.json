@@ -1,0 +1,98 @@
+[
+ {
+  "name": "Tesla App",
+  "cat": "Official",
+  "desc": "Official vehicle control app",
+  "url": "https://www.tesla.com/support/tesla-app"
+ },
+ {
+  "name": "TeslaFi",
+  "cat": "Data & Logging",
+  "desc": "Trip, charging and efficiency logging",
+  "url": "https://www.teslafi.com"
+ },
+ {
+  "name": "TeslaMate",
+  "cat": "Data & Logging",
+  "desc": "Self-hosted open-source data logger",
+  "url": "https://github.com/teslamate-org/teslamate"
+ },
+ {
+  "name": "Tessie",
+  "cat": "Apps",
+  "desc": "Feature-rich third-party Tesla app",
+  "url": "https://tessie.com"
+ },
+ {
+  "name": "A Better Routeplanner",
+  "cat": "Trip Planning",
+  "desc": "EV route and charging planner",
+  "url": "https://abetterrouteplanner.com"
+ },
+ {
+  "name": "PlugShare",
+  "cat": "Charging",
+  "desc": "Map of public EV chargers",
+  "url": "https://www.plugshare.com"
+ },
+ {
+  "name": "ChargePoint",
+  "cat": "Charging",
+  "desc": "Charging network and home chargers",
+  "url": "https://www.chargepoint.com"
+ },
+ {
+  "name": "Electrify America",
+  "cat": "Charging",
+  "desc": "DC fast charging network",
+  "url": "https://www.electrifyamerica.com"
+ },
+ {
+  "name": "Tesla Wall Connector",
+  "cat": "Charging",
+  "desc": "Official home charger",
+  "url": "https://www.tesla.com/support/home-charging-installation/wall-connector"
+ },
+ {
+  "name": "Tesla Shop",
+  "cat": "Accessories",
+  "desc": "Official Tesla accessories",
+  "url": "https://shop.tesla.com"
+ },
+ {
+  "name": "TOPFIT",
+  "cat": "Accessories",
+  "desc": "Mats, organizers and Tesla accessories",
+  "url": "https://www.topfit.store"
+ },
+ {
+  "name": "Tesmanian",
+  "cat": "Accessories",
+  "desc": "Tesla accessories and news",
+  "url": "https://www.tesmanian.com"
+ },
+ {
+  "name": "WeatherTech",
+  "cat": "Accessories",
+  "desc": "Floor liners and protection",
+  "url": "https://www.weathertech.com"
+ },
+ {
+  "name": "Optiwatt",
+  "cat": "Charging",
+  "desc": "Smart charging to save on energy bills",
+  "url": "https://www.optiwatt.com"
+ },
+ {
+  "name": "Tesla Motors Club",
+  "cat": "Community",
+  "desc": "Owner forum",
+  "url": "https://teslamotorsclub.com"
+ },
+ {
+  "name": "Not a Tesla App",
+  "cat": "News",
+  "desc": "Tesla software update news",
+  "url": "https://www.notateslaapp.com"
+ }
+]
